@@ -1,15 +1,11 @@
 {
-    "name": "heer0/git-debug-bundle",
+    "name": "leek/git-debug-bundle",
     "type": "symfony-bundle",
     "description": "Adds useful Git information to the Symfony2 Debug Toolbar",
     "keywords": ["git", "debug", "toolbar"],
     "homepage": "https://github.com/leek/GitDebugBundle",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Yoann Wackers",
-            "email": "yoann.wackers@gmail.com"
-        },
         {
             "name": "Chris Jones",
             "email": "leeked@gmail.com"
@@ -24,7 +20,7 @@
         "symfony/web-profiler-bundle": ">=2.1.*"
     },
     "autoload": {
-        "psr-0": { "Heer0\\GitDebugBundle": "" }
+        "psr-0": { "Leek\\GitDebugBundle": "" }
     },
-    "target-dir": "Heer0/GitDebugBundle"
+    "target-dir": "Leek/GitDebugBundle"
 }
