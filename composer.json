@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Adds useful Git information to the Symfony2 Debug Toolbar",
     "keywords": ["git", "debug", "toolbar"],
-    "homepage": "https://github.com/leek/GitDebugBundle",
+    "homepage": "https://github.com/Heer0/GitDebugBundle",
     "license": "MIT",
     "authors": [
         {
