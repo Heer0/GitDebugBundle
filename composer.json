@@ -1,5 +1,5 @@
 {
-    "name": "leek/git-debug-bundle",
+    "name": "heer0/git-debug-bundle",
     "type": "symfony-bundle",
     "description": "Adds useful Git information to the Symfony2 Debug Toolbar",
     "keywords": ["git", "debug", "toolbar"],
